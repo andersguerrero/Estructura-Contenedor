@@ -1,0 +1,17 @@
+{
+  "inventario_file": {
+    "file_path": "persistent_files/inventario_17a696b421c93e4950b7f3c517c1d35d.xlsx",
+    "file_hash": "17a696b421c93e4950b7f3c517c1d35d",
+    "original_name": "COSTOS NUEVO.xlsx",
+    "productos_count": 19,
+    "upload_date": "2025-08-19 13:24:01",
+    "columns": [
+      "nombre",
+      "sku",
+      "stock_actual",
+      "costo_unitario_usd",
+      "precio_mayor_unitario",
+      "precio_detal_unitario"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "lista_gastos": [
+    {
+      "descripcion": "prueba",
+      "monto": 100000.0,
+      "fecha": "2025-08-19"
+    }
+  ],
+  "total": 100000.0
+}
